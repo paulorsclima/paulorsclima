@@ -62,7 +62,7 @@ Atualmente, estou ampliando minha atuação em desenvolvimento full-stack, integ
 
 ## Projetos em destaque
 
-### Korp — Sistema de emissão de notas fiscais
+### Korp — Sistema de notas fiscais
 
 Sistema desenvolvido com Angular, C# e arquitetura baseada em microsserviços, com foco em processos de estoque e faturamento.
 
