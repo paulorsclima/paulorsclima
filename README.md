@@ -8,7 +8,7 @@ Atualmente, estou ampliando minha atuação em desenvolvimento full-stack, integ
 
 - 📍 São Paulo, Brasil
 - 🛒 Experiência com operações de e-commerce e marketplaces
-- 📊 Interesse em Desenvolvimento de Web
+- 📊 Interesse em Desenvolvimento de Web, C#, Python, JavaScript
 - ⚙️ Desenvolvimento de automações e integrações
 - 🧩 Estudante de Análise e Desenvolvimento de Sistemas com foco em IA
 - 🚀 Construção de projetos práticos para resolver problemas reais
