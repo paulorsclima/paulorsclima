@@ -8,7 +8,7 @@ Atualmente, estou ampliando minha atuação em desenvolvimento full-stack, integ
 
 - 📍 São Paulo, Brasil
 - 🛒 Experiência com operações de e-commerce e marketplaces
-- 📊 Interesse em análise de dados, BI e indicadores de negócio
+- 📊 Interesse em Análise e Desenvolvimento de Sistemas
 - ⚙️ Desenvolvimento de automações e integrações
 - 🧩 Estudante de Análise e Desenvolvimento de Sistemas com foco em IA
 - 🚀 Construção de projetos práticos para resolver problemas reais
